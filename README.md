@@ -1,17 +1,4 @@
-<html>
-  <head>
-    <title>FAQ<title/>
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
-     <style>
-       * {
-        font-family: 'Ubuntu Mono', monospace;
-       } 
-      <style/>
-  <head/>
-  <body>
-  FAQ
+# FAQ
 
 Q: What is your age?
 A: 13 y/o. Born on 30th Dec 2007 at approx. 2am
@@ -36,5 +23,3 @@ A: Before Crypto, I was introduced to programming 5 yrs back. Back then, i learn
 
 Q: Which all programming languages have you learned?
 A: Scratch, C, C++, Java, HTML, CSS, Javascript, Python, Solidity and Rust.
-  <body/>
-<html/>
